@@ -12,3 +12,9 @@ A GUI Java application for visually comparing how various search algorithms hand
 1. Clone the repository
 1. Run the `/dist/SearchComparisonApp.jar` file
 1. In the Help menu click on `Help Contents` for instructions on to use the application
+
+#### Tech Used
+
+* Java SE
+* NetBeans
+* Dr Explain (for documentation)
